@@ -1,0 +1,14 @@
+
+
+.centered-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .error{
+    font-size: larger;
+    font-weight: bolder;
+  }
+  
